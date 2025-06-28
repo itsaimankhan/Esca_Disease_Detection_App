@@ -40,7 +40,7 @@ To run this application locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/itsaimankhan/Esca_Disease_Detection_App.git](https://github.com/itsaimankhan/Esca_Disease_Detection_App.git)
+    git clone https://github.com/itsaimankhan/Esca_Disease_Detection_App.git
     cd Esca_Disease_Detection
     ```
 
