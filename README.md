@@ -1,4 +1,4 @@
-# Esca_Disease_Detection_App
+
 # Optimized Deep Learning for Early Grapevine Esca Detection: Performance and Efficiency at Constrained Resolutions
 
 ## Project Overview
@@ -7,7 +7,7 @@ This project develops and evaluates advanced deep learning models for the early 
 
 ## Live Demo
 
-Experience the application live here: [**[INSERT YOUR STREAMLIT APP LINK HERE]**](INSERT_YOUR_STREAMLIT_APP_LINK_HERE)
+Experience the application live here: [**[https://escadiseasedetection.streamlit.app/]**][https://escadiseasedetection.streamlit.app/]
 
 ## Features
 
@@ -64,5 +64,3 @@ To run this application locally, follow these steps:
     streamlit run app.py
     ```
     The app will open in your web browser.
-
-## Project Structure
