@@ -7,7 +7,7 @@ This project develops and evaluates advanced deep learning models for the early 
 
 ## Live Demo
 
-Experience the application live here: [**[https://escadiseasedetection.streamlit.app/]**][https://escadiseasedetection.streamlit.app/]
+Experience the application live here: [**https://escadiseasedetection.streamlit.app/**]
 
 ## Features
 
